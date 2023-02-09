@@ -10,20 +10,19 @@ pipeline{
                 
                 script{
                     
-                    git branch: 'main', url: 'https://github.com/vikash-kumar01/mrdevops_javaapplication.git'
+                    git branch: 'main', url: 'https://github.com/shriniwas-devops/demo_counter.git'
                 }
             }
         }
-        // stage('UNIT testing'){
+        stage('UNIT testing'){
             
-        //     steps{
+          steps{
                 
-        //         script{
+             script{
                     
-        //             sh 'mvn test'
-        //         }
-        //     }
-        // }
+                 sh 'mvn test'
+        }
+        }
         // stage('Integration testing'){
             
         //     steps{
