@@ -94,7 +94,7 @@ pipeline{
                                     nexusUrl: '3.108.184.57:8081',
                                     nexusVersion: 'nexus3', 
                                     protocol: 'http',
-                                     repository: 'shridevops-release'
+                                     repository: 'shridevopsapp-release'
                                      version: '1.0.0'
 
 
