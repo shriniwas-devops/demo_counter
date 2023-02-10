@@ -133,6 +133,31 @@ pipeline{
 
 
 
+            stage('Push image to Dockerhub'){
+
+    
+                withCredentials([string(credentialsId: 'dockerHub_passwd', variable: 'dockerHub_passwd')]) {
+    
+    
+                        sh 'docker login -u  shriniwas34  -p  ${dockerHub_passwd}'
+                        sh 'docker image push shriniwas34/$JOB_NAME:v1.$BUILD.ID'
+                        sh 'docker image push shriniwas34/$JOB_NAME:latest' 
+    
+                    }
+
+
+                steps{
+
+
+                    script{
+
+
+                    }
+                }
+            }
+
+
+
 
         }
 }
