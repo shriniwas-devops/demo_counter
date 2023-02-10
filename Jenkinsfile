@@ -91,7 +91,7 @@ pipeline{
                                      ],
                                     credentialsId: 'nexus-creds', 
                                     groupId: 'com.example',
-                                    nexusUrl: '3.108.184.57:8081',
+                                    nexusUrl: '13.233.89.192:8081',
                                     nexusVersion: 'nexus3', 
                                     protocol: 'http',
                                      repository: 'shridevopsapp-release'
