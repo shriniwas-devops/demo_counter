@@ -87,3 +87,14 @@ Create dockerhub account
 
 ![fgfgf](https://user-images.githubusercontent.com/122585172/230771181-dde8e9ba-1fd6-4340-ab0b-dc60d9455be0.png)
 
+
+***Done with Installation , Now will we integrate all the tools with Jenkins***
+
+Step-01 : Sonarqube  integration with Jenkins
+
+First thing you need to do you will install sonarqube plugin like sonarqube Generic plugin , sonar gerit plugin , Quality gate plugin, sonar quality gate plugin
+
+![dfsdsf](https://user-images.githubusercontent.com/122585172/230771699-1c1957db-6392-4968-aaa6-92d6efd9d413.png)
+
+
+
