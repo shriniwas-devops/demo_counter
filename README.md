@@ -42,19 +42,19 @@ Push all the web application page code file into github
 
 ![trytry](https://user-images.githubusercontent.com/122585172/230770031-f6f7d157-2010-4155-91ab-91e2ddbdbe13.png)
 
-For Jenkins  install you need to follow here: https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+1. For Jenkins  install you need to follow here: https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 
 After install you will look like this:
 
 ![gdfdfg](https://user-images.githubusercontent.com/122585172/230770151-5f53be7e-5351-437b-be93-85e80772bf22.png)
 
-For Sonarqube install:  you need to install docker before executing this command docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
+2. For Sonarqube install:  you need to install docker before executing this command docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 
 After install sonarqube  will look like this:
 
 ![tyrtyu](https://user-images.githubusercontent.com/122585172/230770832-72002f65-864c-4af3-a294-0c7072dee396.png)
 
-For nexus: 
+3. For nexus: 
 you need to follow step by step:
 
 apt-get update -y
@@ -79,5 +79,11 @@ After install Nexus look like this:
 
 ![ytutyuyu](https://user-images.githubusercontent.com/122585172/230770905-77856f57-0f3b-4d37-bff3-a0293618be34.png)
 
+4. Docker install and create dockerhub account
 
+For docker you need to do follow  step by step:https://docs.docker.com/engine/install/ubuntu/
+
+Create dockerhub account
+
+![fgfgf](https://user-images.githubusercontent.com/122585172/230771181-dde8e9ba-1fd6-4340-ab0b-dc60d9455be0.png)
 
