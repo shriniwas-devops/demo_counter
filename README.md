@@ -96,5 +96,26 @@ First thing you need to do you will install sonarqube plugin like sonarqube Gene
 
 ![dfsdsf](https://user-images.githubusercontent.com/122585172/230771699-1c1957db-6392-4968-aaa6-92d6efd9d413.png)
 
+Step-02 : Nexus  integration with Jenkins
+you need plugin for integration nexus with jenkins like we have Nexus Artifact Uploader
+
+![tryrtyt](https://user-images.githubusercontent.com/122585172/230771942-08bf229b-94ed-427e-ab37-23b8b2ab894d.png)
+
+you need to install one  remain plugin like we have pipeline utilit steps
+
+
+We integrated all the tools with Jenkins, Now Create a declarative jenkins pipeline for each stage.
+
+
+Stage 01: Git checkout
+
+Under this step there will be steps
+
+1. If you don't konw how to write syntax for that you will just go back and click on pipeline syantax / click on git / provide the repo url /then click genrate pipeline script
+
+
+
+
+
 
 
