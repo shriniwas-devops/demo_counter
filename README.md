@@ -40,8 +40,17 @@ Step: 1 Installation Part
 
 Push all the web application page code file into github
 
-
-
-
 ![trytry](https://user-images.githubusercontent.com/122585172/230770031-f6f7d157-2010-4155-91ab-91e2ddbdbe13.png)
+
+For Jenkins  install you need to follow here: https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+
+After install you will look like this:
+
+
+
+
+
+![gdfdfg](https://user-images.githubusercontent.com/122585172/230770151-5f53be7e-5351-437b-be93-85e80772bf22.png)
+
+
 
