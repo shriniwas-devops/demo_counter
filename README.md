@@ -138,6 +138,78 @@ Stage 04: Maven build
 ![fgddg](https://user-images.githubusercontent.com/122585172/230773520-bd56e181-eaec-4d0f-a3b6-bc4fd4222455.png)
 
  
+ Stage 05: Static code analysis
+ 
+01. so here we have to write the command for Static code analysis so for that what we have to do make a connection from the jenkins to your sonarqube make sure you make connection between them 
+
+02 so that is why it will do it will do authenticate and it will try to clean package those artifact and it will try to send those all artifact to the sonarqube server.
+
+![fdssdg](https://user-images.githubusercontent.com/122585172/230773902-b8b41709-8571-4364-8e98-8ae30321f085.png)
+
+
+Stage 06: Quality Gate Status
+
+01. for that you can go directly jenkins click on pipeline syntax/select waitforqualitygate/provide your authentication/genrate pipeline syntax.
+
+![gdfdfd](https://user-images.githubusercontent.com/122585172/230774447-6983ba9d-b284-4c12-8982-8005a02af2bc.png)
+
+Stage 07: Nexus Artifact uploader
+
+![hgjghj](https://user-images.githubusercontent.com/122585172/230774637-1f62be6d-304b-4e42-b86b-c7f4b93ba466.png)
+
+Create a Multisatge Dockerfile
+
+![fdgfdgfd](https://user-images.githubusercontent.com/122585172/230774751-b6fd4409-82a8-466f-86ab-0b61040c6203.png)
+
+Stage 08: Docker image building
+
+01. Make sure docker is installed on your jenkins server then you able run this command and here  what i can do i will jsut make a this version the taging version dynamically 
+
+
+ 02. whenever jenkins build number run when ever i will build the pipeline based on that the tags should get updated for that what have to do we have taging that way. 
+
+03. i can use $job_name or version and build id it will build image this way .
+
+04. once you  build that image you can tag those image as well so you can easily pushed to dockerhub.
+
+![fghfghg](https://user-images.githubusercontent.com/122585172/230775338-36120421-48db-489d-91ab-48c645c58ba4.png)
+
+Stage 09: Push image to Dockerhub
+
+01. before pushing the image dockerhub what you have to do you have to do just login your dockerhub account .
+
+02. Go to pipeline syntax/ select withCredentials.
+
+![hgjhgj](https://user-images.githubusercontent.com/122585172/230775594-e4cdd6de-f981-4138-b9a5-52d555acb9e2.png)
+
+
+Final outputs of this Project
+
+
+Jenkins Output :
+
+![retret](https://user-images.githubusercontent.com/122585172/230775796-af383333-80ca-4bda-8f89-2b219ffbc90d.png)
+
+Sonarqube Output:
+
+![dfgfdfd](https://user-images.githubusercontent.com/122585172/230775913-ffedf365-29a7-4204-adb2-af7aaaa20500.png)
+
+Quality Gate Status in Jenkins:
+
+![fgfhgfh](https://user-images.githubusercontent.com/122585172/230775982-f6535b91-dedc-444f-bd50-7f03a6563927.png)
+
+Images in DockerHub pushed by jenkins:
+
+![sdfdsfd](https://user-images.githubusercontent.com/122585172/230776072-c1b5cfb5-d09b-412e-b785-c401acb8c085.png)
+
+Nexus stored Artifact/snapshot output:
+
+![retretr](https://user-images.githubusercontent.com/122585172/230776162-c1e480ef-7143-4bd0-9868-3b055583f7b5.png)
+
+
+
+
+
 
 
 
