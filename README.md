@@ -36,5 +36,12 @@ Here we will see some Key points:
 
 
 
+Step: 1 Installation Part
 
+Push all the web application page code file into github
+
+
+
+
+![trytry](https://user-images.githubusercontent.com/122585172/230770031-f6f7d157-2010-4155-91ab-91e2ddbdbe13.png)
 
