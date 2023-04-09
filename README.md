@@ -15,6 +15,7 @@ Prerequisites:
 5. AWS
 6. Jenkins 
 
+Here we will see some Key points:
 
 1. Application Overview
 2. Git use cases
