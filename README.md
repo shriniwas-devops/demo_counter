@@ -114,8 +114,30 @@ Under this step there will be steps
 1. If you don't konw how to write syntax for that you will just go back and click on pipeline syantax / click on git / provide the repo url /then click genrate pipeline script
 
 
+![dfghdfh](https://user-images.githubusercontent.com/122585172/230772671-195522aa-0243-4692-8263-66f6d6303bc2.png)
+
+Stage 02: UNIT TESTING
+
+1. we just have simple command for that it's a type of shell script  sh 'mev test' make sure you installed the maven 
 
 
+![fdgdfg](https://user-images.githubusercontent.com/122585172/230772928-323f407e-3eb8-44d2-9c88-8f19f1386e3f.png)
+
+Stage 03: Integration test
+
+01. under stpes you have types commands whatever you  going to use  command sh 'mvn -DskipUnitTests'
+
+![fdgfdg](https://user-images.githubusercontent.com/122585172/230773142-b8efac60-de9f-4270-8081-655d4b35c638.png)
+
+Stage 04: Maven build
+
+01. under that we have steps and we have a command sh sh 'mvn clean install' it will do what ? 
+02. it will clean all the war files whatever is before installed and all and it will try to install from the new end so that is why it's cleaning and  it's going to install files again and again whatever packges and libarey we need require run the this java application. 
+
+
+![fgddg](https://user-images.githubusercontent.com/122585172/230773520-bd56e181-eaec-4d0f-a3b6-bc4fd4222455.png)
+
+ 
 
 
 
