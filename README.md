@@ -46,7 +46,7 @@ Push all the web application page code file into github
 
 After install you will look like this:
 
-![gdfdfg](https://user-images.githubusercontent.com/122585172/230770151-5f53be7e-5351-437b-be93-85e80772bf22.png)
+![12 04 2023_18 28 54_REC](https://user-images.githubusercontent.com/122585172/231465002-4278d3ba-0fbd-4bd6-91bd-426d9c48984d.png)
 
 2. For Sonarqube install:  you need to install docker before executing this command docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 
