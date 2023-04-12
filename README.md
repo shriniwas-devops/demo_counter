@@ -52,7 +52,7 @@ After install you will look like this:
 
 After install sonarqube  will look like this:
 
-![tyrtyu](https://user-images.githubusercontent.com/122585172/230770832-72002f65-864c-4af3-a294-0c7072dee396.png)
+![12 04 2023_18 30 54_REC](https://user-images.githubusercontent.com/122585172/231465551-2e7c6667-758b-4349-9705-c228ef521fbb.png)
 
 3. For nexus: 
 you need to follow step by step:
