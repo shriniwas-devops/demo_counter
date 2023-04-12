@@ -95,7 +95,9 @@ Step-01 : Sonarqube  integration with Jenkins
 
 First thing you need to do you will install sonarqube plugin like sonarqube Generic plugin , sonar gerit plugin , Quality gate plugin, sonar quality gate plugin
 
-![dfsdsf](https://user-images.githubusercontent.com/122585172/230771699-1c1957db-6392-4968-aaa6-92d6efd9d413.png)
+![12 04 2023_18 36 18_REC](https://user-images.githubusercontent.com/122585172/231466905-e0687559-e098-445a-bbde-d81cbb2d36a3.png)
+
+
 
 Step-02 : Nexus  integration with Jenkins
 you need plugin for integration nexus with jenkins like we have Nexus Artifact Uploader
