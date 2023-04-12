@@ -102,7 +102,9 @@ First thing you need to do you will install sonarqube plugin like sonarqube Gene
 Step-02 : Nexus  integration with Jenkins
 you need plugin for integration nexus with jenkins like we have Nexus Artifact Uploader
 
-![tryrtyt](https://user-images.githubusercontent.com/122585172/230771942-08bf229b-94ed-427e-ab37-23b8b2ab894d.png)
+![12 04 2023_18 38 36_REC](https://user-images.githubusercontent.com/122585172/231467466-641cacde-98ec-42d8-9127-e700b7cb9657.png)
+
+
 
 you need to install one  remain plugin like we have pipeline utilit steps
 
