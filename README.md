@@ -205,7 +205,8 @@ Sonarqube Output:
 
 Quality Gate Status in Jenkins:
 
-![fgfhgfh](https://user-images.githubusercontent.com/122585172/230775982-f6535b91-dedc-444f-bd50-7f03a6563927.png)
+![12 04 2023_18 49 13_REC](https://user-images.githubusercontent.com/122585172/231470125-6d1aa4d5-0a27-4716-a26a-8d41fc6ddfdf.png)
+
 
 Images in DockerHub pushed by jenkins:
 
