@@ -77,7 +77,8 @@ https://www.howtoforge.com/how-to-install-and-configure-nexus-repository-manager
 
 After install Nexus look like this:
 
-![ytutyuyu](https://user-images.githubusercontent.com/122585172/230770905-77856f57-0f3b-4d37-bff3-a0293618be34.png)
+
+![12 04 2023_18 32 48_REC](https://user-images.githubusercontent.com/122585172/231466061-5445e124-094a-416b-8caa-f363b264eceb.png)
 
 4. Docker install and create dockerhub account
 
