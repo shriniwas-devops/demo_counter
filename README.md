@@ -199,7 +199,9 @@ Jenkins Output :
 
 Sonarqube Output:
 
-![dfgfdfd](https://user-images.githubusercontent.com/122585172/230775913-ffedf365-29a7-4204-adb2-af7aaaa20500.png)
+
+![12 04 2023_18 47 01_REC](https://user-images.githubusercontent.com/122585172/231469573-93a9c265-e3fe-4ea4-af45-32eabe7163dd.png)
+
 
 Quality Gate Status in Jenkins:
 
