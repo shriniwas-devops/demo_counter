@@ -210,7 +210,9 @@ Quality Gate Status in Jenkins:
 
 Images in DockerHub pushed by jenkins:
 
-![sdfdsfd](https://user-images.githubusercontent.com/122585172/230776072-c1b5cfb5-d09b-412e-b785-c401acb8c085.png)
+
+![13 04 2023_09 05 21_REC](https://user-images.githubusercontent.com/122585172/231642556-18072440-e54a-448e-a051-96d5a9898266.png)
+
 
 Nexus stored Artifact/snapshot output:
 
