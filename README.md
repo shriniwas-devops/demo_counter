@@ -216,12 +216,11 @@ Images in DockerHub pushed by jenkins:
 
 Nexus stored Artifact/snapshot output:
 
-![retretr](https://user-images.githubusercontent.com/122585172/230776162-c1e480ef-7143-4bd0-9868-3b055583f7b5.png)
+
+![13 04 2023_09 08 18_REC](https://user-images.githubusercontent.com/122585172/231642881-71f8fa09-1a9d-4bce-a464-517ec08a3af6.png)
 
 
 
 
-
-g
 
 
